@@ -1,2 +1,2 @@
-# daniel21nvs.github.com
+# Página oficial de Daniel Navarrete
 Mi página web
